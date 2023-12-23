@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78a61756-27e7-4627-a5c4-95927252436e" name="Changes" comment="third day in the works">
+    <list default="true" id="78a61756-27e7-4627-a5c4-95927252436e" name="Changes" comment="tried some pt 2 too tired for day three">
+      <change afterPath="$PROJECT_DIR$/fourthDay/fourthDay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourthDay/fourthDay.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirdDay/thirdDay.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirdDay/thirdDay.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ZkJN7fzcTLZoqa8HQQa5RdQUle" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,8 +36,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.firstDay.executor": "Run",
+    "Python.fourthDay.executor": "Run",
     "Python.secondDay.executor": "Run",
-    "Python.thirdDay.executor": "Run",
+    "Python.thirdDay.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -69,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702960103424</updated>
-      <workItem from="1702960107001" duration="23191000" />
+      <workItem from="1702960107001" duration="28006000" />
+      <workItem from="1703298622182" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="first day on the 18th haha">
       <option name="closed" value="true" />
@@ -95,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703195852269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished third day pt 1">
+      <option name="closed" value="true" />
+      <created>1703230208929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703230208930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tried some pt 2 too tired for day three">
+      <option name="closed" value="true" />
+      <created>1703234991368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703234991369</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +124,9 @@
     <MESSAGE value="first day on the 18th haha" />
     <MESSAGE value="second day on the 19th" />
     <MESSAGE value="third day in the works" />
-    <option name="LAST_COMMIT_MESSAGE" value="third day in the works" />
+    <MESSAGE value="finished third day pt 1" />
+    <MESSAGE value="tried some pt 2 too tired for day three" />
+    <option name="LAST_COMMIT_MESSAGE" value="tried some pt 2 too tired for day three" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -114,6 +135,61 @@
           <url>file://$PROJECT_DIR$/secondDay/secondDay.py</url>
           <line>35</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdDay/thirdDay.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fourthDay/fourthDay.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -127,7 +203,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/adventOfCode$secondDay.coverage" NAME="secondDay Coverage Results" MODIFIED="1703043634084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secondDay" />
-    <SUITE FILE_PATH="coverage/adventOfCode$thirdDay.coverage" NAME="thirdDay Coverage Results" MODIFIED="1703230163257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thirdDay" />
+    <SUITE FILE_PATH="coverage/adventOfCode$thirdDay.coverage" NAME="thirdDay Coverage Results" MODIFIED="1703234836181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thirdDay" />
+    <SUITE FILE_PATH="coverage/adventOfCode$fourthDay.coverage" NAME="fourthDay Coverage Results" MODIFIED="1703303167420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fourthDay" />
     <SUITE FILE_PATH="coverage/adventOfCode$firstDay.coverage" NAME="firstDay Coverage Results" MODIFIED="1702964211806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
